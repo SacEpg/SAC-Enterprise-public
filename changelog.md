@@ -10,7 +10,8 @@
 - Se implementa la actualización autómatica de secuencia de eNCF cuando es rechazada por uso previo
 - Se implementa parámetro para forzar a usar el almacén del usuario al momento de facturar
 - Se permite emitir facturas electrónicas en lote a traves de la pantalla de Documentos Preliminares de CxC
-- Se anexa automáticamente a los documentos el archivo XML de los documentos electrónicos  
+- Se anexa automáticamente a los documentos el archivo XML de los documentos electrónicos
+- Se incluye el reporte "Carta de Retenciones"  
 
 ## 3.5.1 (20/06/2025)
 ### Correciones de errores
