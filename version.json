@@ -1,4 +1,4 @@
 {
-  "version": "3.6.4",
-  "allowedGroups": ["todos"]
+  "version": "3.6.6",
+  "allowedGroups": ["beta","Beta"]
 }
