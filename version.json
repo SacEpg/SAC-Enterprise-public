@@ -1,4 +1,4 @@
 {
   "version": "3.7.0",
-  "allowedGroups": ["BETA","beta","alpha","ALPHA"]
+  "allowedGroups": ["BETA","beta","alpha","ALPHA"."PILOT","pilot"]
 }
